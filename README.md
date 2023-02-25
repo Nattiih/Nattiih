@@ -35,7 +35,7 @@
   <a href = "mailto:natisailvaa@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Nattiih/count.svg" /></p>
 
 
 ![snake gif](https://github.com/Nattiih/Nattih/blob/output/github-contribution-grid-snake.svg)
