@@ -1,5 +1,4 @@
-#### Hello World !!! My name is Natasha, I'm 26 years old, I graduated in Computer Engineering. I currently work as a Back-end developer.
-Welcome everyone to my world...❤
+#### Hello World !!! My name is Natasha 
 
 ##
 
