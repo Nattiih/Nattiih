@@ -16,7 +16,7 @@ Back-end Developer
 
 ##
 
-###Technologies I use 
+### Technologies I use 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
