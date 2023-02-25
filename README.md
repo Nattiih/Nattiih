@@ -31,6 +31,6 @@ Welcome everyone to my world...❤
  <a href="https://discord.gg/nationresources" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:natisailvaa@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/euhenri/euhenri/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Nattiih/Nattiih/blob/output/github-contribution-grid-snake.svg)
  
 </div>
