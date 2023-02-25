@@ -1,4 +1,10 @@
-#### Hello World !!! My name is Natasha 
+#### Hello World !!! My name is Natasha 🥰
+
+##
+
+26 anos
+Back-end Developer
+
 
 ##
 
@@ -9,7 +15,9 @@
 </div>
 
 ##
- 
+
+###Technologies I use 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Natti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Natti-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
