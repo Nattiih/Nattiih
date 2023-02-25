@@ -1,4 +1,4 @@
-#### Hello World !!! My name is Natasha 🥰
+### Hello World !!! My name is Natasha 🥰
 
 ##
 
@@ -10,7 +10,7 @@
 
 ##
 
-### Technologies I use on a daily basis
+#### Technologies I use on a daily basis
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Natti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,7 +26,7 @@
   
 ##  
  
-### My Networks
+#### My Networks
 
 <div> 
   <a href="https://www.youtube.com/@nation3713" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
